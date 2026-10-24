@@ -41,8 +41,13 @@ Project Workflow
 
 Key Findings
 
-To be updated after completing the analysis.
+1.Accident Trends: Identify the year and month with the highest number of recorded road accidents.
 
+2.Accident Severity: Determine which accident severity category occurs most frequently.
+
+3.Urban vs Rural: Compare accident frequency between urban and rural areas.
+
+4.Weather Conditions: Identify the weather conditions associated with the highest number of recorded accidents.
 How to Run
 
 1. Download or clone this repository.
